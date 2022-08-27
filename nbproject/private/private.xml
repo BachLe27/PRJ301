@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Components/Account/createAccount.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Components/Location/createLocation.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/CheckExist.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Views/Student.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/Profile.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/Login/Forget.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/HandleSchedule.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Views/Classes.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/Login/Register.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/Home.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Views/Location.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Views/Forget.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Views/Profile.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/DAL/StudentDAO.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/Account.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/DAL/DBContext.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/Login/Auth.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Components/Account/updateName.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/DAL/DAO.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/ChangeInfo.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Views/Home.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/DeleteAccount.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/DAL/ClassDAO.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/DAL/ScheduleDAO.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Components/Account/updateAccount.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/CreateAccount.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Models/Account.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Views/Account.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/Login/Login.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Components/Account/deleteAccount.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/DAL/LocationDAO.java</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Views/Register.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Components/Account/updatePhone.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/web/Components/Location/deleteLocation.jsp</file>
+            <file>file:/D:/University/2022_Semester%204_SUMMER/PRJ301/ScheduGuard/src/java/Controllers/ChangePassword.java</file>
+        </group>
+    </open-files>
+</project-private>
